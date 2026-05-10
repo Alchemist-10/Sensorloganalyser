@@ -1,0 +1,16 @@
+Timestamp,MachineId,Value,Status
+2026-05-10 08:00:00,Boiler-1,48.2,Normal
+2026-05-10 08:05:00,Boiler-1,49.1,Normal
+2026-05-10 08:10:00,Boiler-1,61.7,Warning
+2026-05-10 08:15:00,Boiler-1,74.4,Critical
+2026-05-10 08:20:00,Boiler-1,50.0,Normal
+2026-05-10 08:25:00,Boiler-1,52.3,Normal
+2026-05-10 08:30:00,Boiler-1,82.9,Critical
+2026-05-10 08:35:00,Boiler-1,53.2,Normal
+2026-05-10 08:40:00,Boiler-1,57.9,Warning
+2026-05-10 08:45:00,Boiler-1,50.7,Normal
+2026-05-10 08:00:00,Pump-2,12.4,Normal
+2026-05-10 08:05:00,Pump-2,12.8,Normal
+2026-05-10 08:10:00,Pump-2,13.1,Normal
+2026-05-10 08:15:00,Pump-2,15.9,Warning
+2026-05-10 08:20:00,Pump-2,18.7,Critical
